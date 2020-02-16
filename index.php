@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>My Mulitiplication System</title>
-    <!--    <link rel="stylesheet" href="css/style.css">-->
+    <link rel="stylesheet" href="css/style.css">git
 </head>
 
 <body>
